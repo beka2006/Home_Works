@@ -6,6 +6,7 @@ namespace Homework2
     {
         static void Main(string[] args)
         {
+            // ვამატებ კომენტარს ახალი ბრენჩისსთვის 
             // ფონის შეცვლა ლურჯად
             Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.Clear();
