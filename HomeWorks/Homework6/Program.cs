@@ -64,7 +64,7 @@
             Console.WriteLine();
             
             #endregion
-
+            
             
             #region N3
             // N3- მასივში ელემენტების დათვლა
